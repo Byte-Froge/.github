@@ -8,4 +8,4 @@ https://dsc.gg/bytefr i napisz swój nick github na specialnym kanale.
 ### Email 🔐
 Lub napisz do nas na email : ByteFroge@proton.me
 ## Nasz zespół 😅
-@Enlvis — Właściciel, główny programista — Projekt: ByteOS
+**@Enlvis** — Właściciel, główny programista — Projekt: ByteOS
