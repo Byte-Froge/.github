@@ -1,12 +1,11 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# ByteFroge 🔥
+Hej ByteFroge to organizacja github która pozwala tworzyć i rozwijać projekty 
+które są na github tworzymy np. takie projekty jak ByteOS.
+## Jak do nas dołączyć? 🌐
+### Discord 👾
+Dołącz na discorda ByteForge używając linku:
+https://dsc.gg/bytefr i napisz swój nick github na specialnym kanale.
+### Email 🔐
+Lub napisz do nas na email : ByteFroge@proton.me
+## Nasz zespół 👨‍🚀
+@Enlvis — Właściciel, główny programista — Projekt: ByteOS
