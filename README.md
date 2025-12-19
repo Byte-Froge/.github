@@ -1,6 +1,8 @@
 # ByteFroge 🔥
 Hej ByteFroge to organizacja github która pozwala tworzyć i rozwijać projekty 
 które są na github tworzymy np. takie projekty jak ByteOS.
+## Media ☀️
+x (Stary twitter) — https://x.com/byte_forge_ — Blog and community
 ## Jak do nas dołączyć? 🌐
 ### Discord 👾
 Dołącz na discorda ByteForge używając linku:
